@@ -1,0 +1,98 @@
+
+
+    
+
+li{
+    text-size-adjust:inherit;  
+    
+}
+h1{
+color:blue;
+font-style: italic;
+font-weight: 900;
+
+
+
+    
+
+}
+ 
+
+
+h2{
+    font-size: xx-large;
+    color:blue;
+    
+}
+
+p1{
+    color: white;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bolder;
+    padding-right: 25%;
+      
+
+      
+
+    
+}
+
+      
+
+        
+      
+
+p2{
+    color:white;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bold;
+}
+ 
+.ul2{
+    list-style: none;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: lighter;
+    color:blue;
+    padding-top: 3%;
+
+    
+}
+.container flex {
+    padding-top: 10%;
+}
+p4{
+    color: rgb(1, 1, 75);
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+.mt-5{
+    margin-top: 100;
+}
+
+.body{
+  background-image: url(images/images\ 4.jpg);
+        background-repeat: no-repeat;
+                  background-attachment: fixed;
+                  background-size: 100% 100%;
+      
+}
+
+  
+
+.fs-2{
+    color: black;
+    font-size: xx-large;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+nav-item{
+    color: black;
+    font-weight: bolder;
+    font-size: larger;
+}
